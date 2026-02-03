@@ -27,6 +27,6 @@ Aplicação em Python executada via terminal onde o usuário deve adivinhar um n
 python jogo_adivinhacao.py
 ```
 
-Objetivo
+## Objetivo
 
 Praticar lógica de programação, controle de fluxo e interação com o usuário via terminal.
